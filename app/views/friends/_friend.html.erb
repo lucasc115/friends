@@ -1,0 +1,11 @@
+<tr>
+  <td>
+    <%= link_to friend.first_name + ' ' + friend.last_name, friend %>
+  </td>
+  <td><%= friend.email %></td>
+  <td><%= friend.phone %></td>
+  <td>@<%= friend.twitter %></td>
+  <td>
+    <%= button_to 'Delete', friend, method: :delete, data: { confirm: "Are you sure?" }, class: 'btn btn-sm btn-danger', form: { class: 'd-inline' } %>
+  </td>
+</tr>

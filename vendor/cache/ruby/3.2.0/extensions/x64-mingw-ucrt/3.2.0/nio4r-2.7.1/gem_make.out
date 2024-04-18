@@ -1,0 +1,18 @@
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/nio4r-2.7.1/ext/nio4r
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/nio4r-2.7.1/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-41y403 sitelibdir\=./.gem.20240415-12928-41y403 clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/nio4r-2.7.1/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-41y403 sitelibdir\=./.gem.20240415-12928-41y403
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/nio4r-2.7.1/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-41y403 sitelibdir\=./.gem.20240415-12928-41y403 install
+make: Nothing to be done for 'install'.
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/nio4r-2.7.1/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-41y403 sitelibdir\=./.gem.20240415-12928-41y403 clean
+make: *** No rule to make target 'clean'.  Stop.

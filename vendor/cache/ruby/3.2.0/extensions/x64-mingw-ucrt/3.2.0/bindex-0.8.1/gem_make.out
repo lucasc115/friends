@@ -1,0 +1,23 @@
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-jr2b2m sitelibdir\=./.gem.20240415-12928-jr2b2m clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-jr2b2m sitelibdir\=./.gem.20240415-12928-jr2b2m
+generating cruby-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-jr2b2m sitelibdir\=./.gem.20240415-12928-jr2b2m install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240415-12928-jr2b2m/skiptrace/internal
+
+current directory: C:/Users/dell/railsfriends/friends/vendor/cache/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240415-12928-jr2b2m sitelibdir\=./.gem.20240415-12928-jr2b2m clean
+bash.exe: warning: could not find /tmp, please create!
